@@ -5,7 +5,7 @@ This project is part of the **Codebasics Resume Challenge**. It analyzes real-wo
 ---
 ##  Live Demo & Resources
 
--  [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTc4YzJiYmEtZGMwYS00OTYwLWFjYmUtMzViNzg4MmM3MTFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=413535e1bcb5a87eeab3) → 
+-  [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTc4YzJiYmEtZGMwYS00OTYwLWFjYmUtMzViNzg4MmM3MTFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=413535e1bcb5a87eeab3) 
 -  [Video Presentation]
 
 ---
