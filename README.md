@@ -3,7 +3,7 @@
 This project is part of the **Codebasics Resume Challenge**. It analyzes real-world hotel data to uncover insights and provide recommendations to the Revenue Team of **AtliQ Grands**, a five-star hotel chain in India. The goal is to reverse revenue decline and optimize business decisions using data.
 
 ---
-##  Live Demo & Resources
+## Resources
 
 -  [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTc4YzJiYmEtZGMwYS00OTYwLWFjYmUtMzViNzg4MmM3MTFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=413535e1bcb5a87eeab3) 
 -  [Video Presentation]
@@ -80,3 +80,16 @@ The project is based on 5 CSV files:
 
 ---
 
+##  Acknowledgements
+
+Thanks to [Dhaval Patel](https://www.linkedin.com/in/dhavalsays/) sir, [Hemanand Vadivel](https://www.linkedin.com/in/hemvad/) sir, and the Codebasics team for their excellent guidance and industry-focused curriculum.
+
+---
+
+##  Contact
+
+**Created by:** Sindhuja Kumari
+ [LinkedIn](https://www.linkedin.com/in/sindhuja-kumari-74908b344/)  
+
+
+---
